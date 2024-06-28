@@ -229,6 +229,13 @@ body {
   .glowing-btn{
     font-size: 1em;
   }
+
+  }
+</style>
+<body>
+<button class='glowing-btn'><span class='glowing-txt'>C<span class='faulty-letter'>L</span>ICK</span></button>
+</body>
+</html>
 }
 </style>
 <body>
